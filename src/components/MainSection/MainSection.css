@@ -1,0 +1,30 @@
+/* MainSection.css */
+.main-section {
+    padding: 40px;
+    background-color: #f9f9f9;
+    text-align: center;
+}
+
+.main-section h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.main-section p {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.main-section .get-registered-btn {
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.main-section .get-registered-btn:hover {
+    background-color: #0056b3;
+}

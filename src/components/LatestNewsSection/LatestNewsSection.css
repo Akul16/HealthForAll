@@ -1,0 +1,34 @@
+/* LatestNewsSection.css */
+.latest-news-section {
+    padding: 40px;
+    background-color: #f9f9f9;
+}
+
+.latest-news-section h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.latest-news-section .news-item {
+    margin-bottom: 30px;
+}
+
+.latest-news-section .news-item h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.latest-news-section .get-registered-btn {
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.latest-news-section .get-registered-btn:hover {
+    background-color: #0056b3;
+}

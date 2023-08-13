@@ -1,0 +1,29 @@
+/* MakeADifferenceSection.css */
+.make-a-difference-section {
+    padding: 40px;
+    background-color: #f9f9f9;
+}
+
+.make-a-difference-section h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.make-a-difference-section p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.make-a-difference-section .contribute-btn {
+    padding: 12px 24px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.make-a-difference-section .contribute-btn:hover {
+    background-color: #0056b3;
+}
